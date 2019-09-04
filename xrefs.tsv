@@ -1,0 +1,67 @@
+nift_id	nift_label	db	db_id	db_label
+00037	18F fluorodeoxyglucose	MESH	D019788	Fluorodeoxyglucose F18
+00065	Abnormal involuntary movement scale	MESH	D000067399	Abnormal Involuntary Movement Scale
+00066	Acetylcholine	MESH	D000109	Acetylcholine
+00066	Acetylcholine	CHEBI	CHEBI:15355	acetylcholine
+00070	Algorithms	MESH	D000465	Algorithms
+00071	Alzheimer disease	MESH	D000544	Alzheimer Disease
+00077	Amygdala	MESH	D000679	Amygdala
+00103	Atrophy	MESH	D001284	Atrophy
+00133	Brain stem	MESH	D001933	Brain Stem
+00135	Brain swelling	MESH	D001929	Brain Edema
+00160	Cerebellar cortex	MESH	D002525	Cerebellar Cortex
+00163	Cerebral Cortex	MESH	D002540	Cerebral Cortex
+00169	Cerebral blood volume	MESH	D000071937	Cerebral Blood Volume
+00172	Cerebral hemorrhage	MESH	D002543	Cerebral Hemorrhage
+00180	Cerebrospinal fluid	MESH	D002555	Cerebrospinal Fluid
+00183	Cingulate Gyrus	MESH	D006179	Gyrus Cinguli
+00205	Corpus Callosum	MESH	D003337	Corpus Callosum
+00224	Deep brain stimulation	MESH	D046690	Deep Brain Stimulation
+00226	Diencephalon	MESH	D004027	Diencephalon
+00232	Diffusion tensor imaging	MESH	D056324	Diffusion Tensor Imaging
+00239	Dopamine	CHEBI	CHEBI:18243	dopamine
+00239	Dopamine	MESH	D004298	Dopamine
+00243	Dopaminergic Neurons	MESH	D059290	Dopaminergic Neurons
+00254	Electromyography	MESH	D004576	Electromyography
+00256	Entorhinal Cortex	MESH	D018728	Entorhinal Cortex
+00286	Fourth ventricle	MESH	D020546	Fourth Ventricle
+00302	Frontal lobe	MESH	D005625	Frontal Lobe
+00319	Gray matter	MESH	D066128	Gray Matter
+00335	Hippocampus	MESH	D006624	Hippocampus
+00380	Intracerebral hemorrhage	MESH	D002543	Cerebral Hemorrhage
+00384	Intracranial hemorrhage	MESH	D020300	Intracranial Hemorrhages
+00403	Lateral Ventricle	MESH	D020547	Lateral Ventricles
+00436	Limbic Lobe	MESH	D065726	Limbic Lobe
+00456	Magnetic resonance imaging	MESH	D008279	Magnetic Resonance Imaging
+00458	Magnetic resonance spectroscopy	MESH	D009682	Magnetic Resonance Spectroscopy
+00461	Magnetoencephalography	MESH	D015225	Magnetoencephalography
+00535	Multiple system atrophy	MESH	D019578	Multiple System Atrophy
+00541	Neocortex	MESH	D019579	Neocortex
+00558	Nucleus Basalis of Meynert	MESH	D020532	Basal Nucleus of Meynert
+00564	Occipital Lobe	MESH	D009778	Occipital Lobe
+00574	Optic Chiasm	MESH	D009897	Optic Chiasm
+00575	Optical coherence tomography	MESH	D041623	Tomography, Optical Coherence
+00590	Parahippocampal Gyrus	MESH	D020534	Parahippocampal Gyrus
+00600	Parietal Lobe	MESH	D010296	Parietal Lobe
+00609	Parkinson disease	MESH	D010300	Parkinson Disease
+00618	Perfusion	MESH	D010477	Perfusion
+00631	Polysomnography	MESH	D017286	Polysomnography
+00632	Pons	MESH	D011149	Pons
+00633	Positron emission tomography	MESH	D049268	Positron-Emission Tomography
+00655	Putamen	MESH	D011699	Putamen
+00706	Serotonin	MESH	D012701	Serotonin
+00706	Serotonin	CHEBI	CHEBI:28790	serotonin
+00711	Single Photon Emission Computed Tomography	MESH	D015899	Tomography, Emission-Computed, Single-Photon
+00712	Skeletal muscle atrophy	GO	GO:0014732	skeletal muscle atrophy
+00724	Subarachnoid hemorrhage	MESH	D013345	Subarachnoid Hemorrhage
+00735	Substantia Nigra	MESH	D013378	Substantia Nigra
+00736	Subthalamic Nucleus	MESH	D020531	Subthalamic Nucleus
+00737	Subthalamus	MESH	D020530	Subthalamus
+00762	Synaptic plasticity	MESH	D009473	Neuronal Plasticity
+00771	Tau	HGNC	6893	MAPT
+00776	Telencephalon	MESH	D013687	Telencephalon
+00947	Third ventricle	MESH	D020542	Third Ventricle
+00956	Transcranial Direct Current Stimulation	MESH	D065908	Transcranial Direct Current Stimulation
+00957	Transcranial Magnetic Stimulation	MESH	D050781	Transcranial Magnetic Stimulation
+00972	Ultrasound imaging	MESH	D014463	Ultrasonography
+01202	White matter	MESH	D066127	White Matter
