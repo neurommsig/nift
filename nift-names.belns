@@ -1,0 +1,1234 @@
+[Namespace]
+Keyword=NIFT
+NameString=Neuroimaging Feature Terminology
+DomainString=Other
+VersionString=20190904
+CreatedDateTime=2019-09-04T09:37:26
+[Author]
+NameString=Charles Tapley Hoyt
+CopyrightString=CC0 1.0 Universal
+[Citation]
+NameString=None
+[Processing]
+CaseSensitiveFlag=yes
+DelimiterString=|
+CacheableFlag=yes
+[Values]
+11C AC_5216|OGRPBCAM
+11C A_836339|OGRPBCAM
+11C FMZ|OGRPBCAM
+11C MP4A|OGRPBCAM
+11C Methylpiperidin_4_yl propionate|OGRPBCAM
+11C PBB3|OGRPBCAM
+11C PMP|OGRPBCAM
+11C_2_deoxy_D_glucose|OGRPBCAM
+11C_5|OGRPBCAM
+11C_Arachidonic acid|OGRPBCAM
+11C_CFT|OGRPBCAM
+11C_DA1106|OGRPBCAM
+11C_DED|OGRPBCAM
+11C_L_deuteriodeprenyl|OGRPBCAM
+11C_PiB|OGRPBCAM
+11C_Raclopride|OGRPBCAM
+11C_WAY100635|OGRPBCAM
+11C_benztropine|OGRPBCAM
+11C_butanol|OGRPBCAM
+11C_dihydrotetrabenazine_PET|OGRPBCAM
+11C_diprenorphine_PET|OGRPBCAM
+11C_nicotine|OGRPBCAM
+11C_physostigmine|OGRPBCAM
+11_C_PK11195|OGRPBCAM
+123 iodobenzamide|OGRPBCAM
+123I IBVM|OGRPBCAM
+123I_N_isopropyl_p_iodoamphetamine|OGRPBCAM
+123I_iodobenzamide_SPECT|OGRPBCAM
+123_I_FP_CIT|OGRPBCAM
+123_I_altropane|OGRPBCAM
+123l_beta_CIT|OGRPBCAM
+15 O Water|OGRPBCAM
+18 F_2_deoxy_D_glucose|OGRPBCAM
+18F AV_45|OGRPBCAM
+18F T807|OGRPBCAM
+18F THK523|OGRPBCAM
+18F fluorodeoxyglucose|OGRPBCAM
+18F_1a|OGRPBCAM
+18F_24|OGRPBCAM
+18F_DOPA|OGRPBCAM
+18F_FDDNP|OGRPBCAM
+18F_FP_TZTP|OGRPBCAM
+18F_NFEP|OGRPBCAM
+18F_alanserine|OGRPBCAM
+18F_florbetaben|OGRPBCAM
+18F_florbetapir|OGRPBCAM
+18F_flutemetamol|OGRPBCAM
+18_fluorodeoxyglucose PET|OGRPBCAM
+3-HPMA/Cre ratio|OGRPBCAM
+3T MRI Scan Information|OGRPBCAM
+64 Cu II L1|OGRPBCAM
+99mTc_ECD|OGRPBCAM
+99mTc_HMPAO|OGRPBCAM
+99mTc_TRODAT_1|OGRPBCAM
+AD specific structural abnormality index|OGRPBCAM
+AD7C test|OGRPBCAM
+ASL perfusion CBF by FreeSurfer ROI|OGRPBCAM
+AV45_PET|OGRPBCAM
+AV_45 PET Scan|OGRPBCAM
+Abeta 1_40 test|OGRPBCAM
+Abeta 1_42 test|OGRPBCAM
+Abeta_40_42_ratio|OGRPBCAM
+Abeta_42|OGRPBCAM
+Abeta_42 CSF|OGRPBCAM
+Abnormal involuntary movement scale|OGRPBCAM
+Acetylcholine|OGRPBCAM
+Acetylcholine neuronal integrity|OGRPBCAM
+Adverse events|OGRPBCAM
+Adverse events of spatial  interest|OGRPBCAM
+Algorithms|OGRPBCAM
+Alzheimer disease|OGRPBCAM
+Alzheimer questionnaire|OGRPBCAM
+Alzheimers Disease Cooperative Study_Clinical Global Impression of Change|OGRPBCAM
+Alzheimers disease assessment scale|OGRPBCAM
+Alzheimer’s disease co_operative study _ activities of daily living|OGRPBCAM
+American national adult reading test|OGRPBCAM
+Amygdala|OGRPBCAM
+Amygdalar volume|OGRPBCAM
+Amyloid beta metabolism|OGRPBCAM
+Amyloid deposition|OGRPBCAM
+Amyloid imaging|OGRPBCAM
+Amyloid positron emission tomography|OGRPBCAM
+Amyloid related imaging abnormality|OGRPBCAM
+Amyloid_PET imaging|OGRPBCAM
+Angular Gyrus|OGRPBCAM
+Anterior Occipital Sulcus and Preoccipital Notch|OGRPBCAM
+Anterior Orbital Gyrus|OGRPBCAM
+Anterior Part of Cingulate Sulcus|OGRPBCAM
+Anterior Part of the Cingulate Gyrus and Sulcus|OGRPBCAM
+Anterior Postcentral Gyrus|OGRPBCAM
+Anterior Segment of Lateral Sulcus|OGRPBCAM
+Anterior Segment of the Circular Sulcus of the Insula|OGRPBCAM
+Anterior Subcentral Sulcus|OGRPBCAM
+Anterior Temporal Lobe Atrophy|OGRPBCAM
+Anterior Transverse Collateral Sulcus|OGRPBCAM
+Anterior Transverse Temporal Gyrus|OGRPBCAM
+Apathy evaluation|OGRPBCAM
+Apomorphine test|OGRPBCAM
+Archimedes spiral|OGRPBCAM
+Army dystonia disability scale|OGRPBCAM
+Arterial spin labeling|OGRPBCAM
+Assessment of anxiety|OGRPBCAM
+Atrophy|OGRPBCAM
+Axial diffusivity|OGRPBCAM
+Axonal integrity|OGRPBCAM
+BAI_MRI NMRC summary|OGRPBCAM
+BAI_PET NMRC amyloid convergence index methods|OGRPBCAM
+Basal Forebrain Nucleus|OGRPBCAM
+Basal forebrain volume|OGRPBCAM
+Basal ganglia hypometabolism|OGRPBCAM
+Berg balance scale|OGRPBCAM
+Bilateral Parietal Lobe Atrophy|OGRPBCAM
+Bilateral Temporal Lobe Atrophy|OGRPBCAM
+Bilateral temporal hypometabolism|OGRPBCAM
+Bilateral temporoparietal hypoperfusion|OGRPBCAM
+Blessed information memory concentration test|OGRPBCAM
+Blood oxygenation|OGRPBCAM
+Blood oxygenation level dependent|OGRPBCAM
+Blood_oxygen_level dependent contrast imaging|OGRPBCAM
+Blood_oxygen_level dependent functional magnetic resonance imaging|OGRPBCAM
+Boston diagnostic aphasia examination|OGRPBCAM
+Boston naming test|OGRPBCAM
+Boundary shift integral summary|OGRPBCAM
+Brain Metabolism|OGRPBCAM
+Brain Protein Deposits Tracer|OGRPBCAM
+Brain atrophy|OGRPBCAM
+Brain hemorrhage|OGRPBCAM
+Brain parenchymal fraction|OGRPBCAM
+Brain parenchymal tissue volume|OGRPBCAM
+Brain receptor binding|OGRPBCAM
+Brain region|OGRPBCAM
+Brain serotonin _5_HT_ synthesis|OGRPBCAM
+Brain stem|OGRPBCAM
+Brain stem atrophy|OGRPBCAM
+Brain swelling|OGRPBCAM
+Brain thickness|OGRPBCAM
+Brain to intracranial capacity ratio|OGRPBCAM
+Brain volume|OGRPBCAM
+Brief screening test|OGRPBCAM
+Buschke memory test|OGRPBCAM
+Buschke memory test _ delayed facilitated recall|OGRPBCAM
+Buschke memory test _ delayed free recall|OGRPBCAM
+Buschke memory test _ faciliated recall|OGRPBCAM
+Buschke memory test _ free recall|OGRPBCAM
+CA1 of the hippocampus|OGRPBCAM
+CA3 of the hippocampus|OGRPBCAM
+CBIC|OGRPBCAM
+CLU associated brain atrophy|OGRPBCAM
+CSF-Tau|OGRPBCAM
+Calcarine Sulcus|OGRPBCAM
+California verbal learning test|OGRPBCAM
+Cambridge neuropsychological test|OGRPBCAM
+CaudatePutamen volume|OGRPBCAM
+Central Area Grey Matter|OGRPBCAM
+Central Area White Matter|OGRPBCAM
+Central Sulcus of the Insula and the Long Insular Gyri|OGRPBCAM
+Central sulcus|OGRPBCAM
+Cerebellar White Matter|OGRPBCAM
+Cerebellar atrophy|OGRPBCAM
+Cerebellar cortex|OGRPBCAM
+Cerebellar cortical atrophy|OGRPBCAM
+Cerebellum_cortex volume|OGRPBCAM
+Cerebral Cortex|OGRPBCAM
+Cerebral Perfusion Imaging|OGRPBCAM
+Cerebral White Matter Lesion|OGRPBCAM
+Cerebral atrophy|OGRPBCAM
+Cerebral blood flow|OGRPBCAM
+Cerebral blood flow glucose|OGRPBCAM
+Cerebral blood volume|OGRPBCAM
+Cerebral edema|OGRPBCAM
+Cerebral glucose metabolism|OGRPBCAM
+Cerebral hemorrhage|OGRPBCAM
+Cerebral hyperperfusion|OGRPBCAM
+Cerebral metabolic glucose utilization rate|OGRPBCAM
+Cerebral metabolism|OGRPBCAM
+Cerebral microbleed|OGRPBCAM
+Cerebral perfusion|OGRPBCAM
+Cerebral perfusion computed tomography|OGRPBCAM
+Cerebral perfusion pressure|OGRPBCAM
+Cerebrospinal fluid|OGRPBCAM
+Cerebrospinal fluid test|OGRPBCAM
+Change in cerebral blood flow|OGRPBCAM
+Cingulate Gyrus|OGRPBCAM
+Cingulate Sulcus|OGRPBCAM
+Circular Sulcus of the Insula|OGRPBCAM
+Clinical dementia rating|OGRPBCAM
+Clinical dyskinesia rating scale|OGRPBCAM
+Clinical global impression of change|OGRPBCAM
+Clinical indices|OGRPBCAM
+Clinical interview based impression|OGRPBCAM
+Clinical trial information|OGRPBCAM
+Clock digit span|OGRPBCAM
+Clock drawing test|OGRPBCAM
+Cognitive reserve index questionnaire|OGRPBCAM
+Cognitive reserve questionnaire|OGRPBCAM
+Columbia university rating scale|OGRPBCAM
+Columbia_suicide severity rating scales|OGRPBCAM
+Computed tomography|OGRPBCAM
+Consortium to Establish a Registry for Alzheimer’s Disease _ Word List Memory Mean Score|OGRPBCAM
+Consortium to establish a registry for Alzheimer’s disease|OGRPBCAM
+Continuous Arterial Spin Labeling Perfusion Imaging Technique|OGRPBCAM
+Continuous arterial spin labeling|OGRPBCAM
+Controlled oral word association test|OGRPBCAM
+Coronal brain imaging|OGRPBCAM
+Corpus Callosum|OGRPBCAM
+Corpus Callosum Anterior|OGRPBCAM
+Corpus Callosum Central|OGRPBCAM
+Corpus Callosum Mid_Posterior|OGRPBCAM
+Corpus Callosum Mid_anterior|OGRPBCAM
+Corpus Callosum Posterior|OGRPBCAM
+Corpus callosum atrophy|OGRPBCAM
+Cortical Thickness|OGRPBCAM
+Cortical Thinning|OGRPBCAM
+Cortical atrophy|OGRPBCAM
+Cortical folding|OGRPBCAM
+Cortical ribbon|OGRPBCAM
+Cortical volume|OGRPBCAM
+Cowad rey figure score|OGRPBCAM
+Cranial computed tomography|OGRPBCAM
+Cuneus|OGRPBCAM
+D2_receptor density|OGRPBCAM
+DEMTEC|OGRPBCAM
+DTI ROI summary measures|OGRPBCAM
+Deep brain stimulation|OGRPBCAM
+Default mode network connectivity|OGRPBCAM
+Diencephalon|OGRPBCAM
+Diffuse atrophy|OGRPBCAM
+Diffusion of water molecules in brain tissue|OGRPBCAM
+Diffusion perfusion weighted MRI|OGRPBCAM
+Diffusion spectrum imaging|OGRPBCAM
+Diffusion tensor MRI|OGRPBCAM
+Diffusion tensor imaging|OGRPBCAM
+Diffusion tensor imaging tractography|OGRPBCAM
+Diffusion tensor spectroscopy|OGRPBCAM
+Diffusion weighted imaging|OGRPBCAM
+Diffusion weighted magnetic resonance imaging|OGRPBCAM
+Diffusivity in the fornix|OGRPBCAM
+Disability assessment for dementia|OGRPBCAM
+Dopamine|OGRPBCAM
+Dopamine Transporter Ligand|OGRPBCAM
+Dopamine metabolism|OGRPBCAM
+Dopamine transporter scan|OGRPBCAM
+Dopaminergic Neurons|OGRPBCAM
+Dorsal Pons|OGRPBCAM
+Dynamic Contrast Enhanced Imaging|OGRPBCAM
+Dynamic Susceptibility Contrast Imaging|OGRPBCAM
+Dynamic Susceptibility Contrast Magnetic Resonance Imaging|OGRPBCAM
+Dynamic contrast enhanced imaging_MRI|OGRPBCAM
+EADC_harmonized hippocampal protocol training|OGRPBCAM
+Electrocardiogram|OGRPBCAM
+Electrocorticograms|OGRPBCAM
+Electroencephalogaphy|OGRPBCAM
+Electroencephalograms|OGRPBCAM
+Electromyography|OGRPBCAM
+Electromyography of tremor|OGRPBCAM
+Entorhinal Cortex|OGRPBCAM
+Entorhinal Cortex Thickness|OGRPBCAM
+Entorhinal cortex size|OGRPBCAM
+Entorhinal cortex volume|OGRPBCAM
+Entorhinal volume|OGRPBCAM
+Epworth sleepiness scale|OGRPBCAM
+Everyday cognition|OGRPBCAM
+Everyday cognition questionnaire|OGRPBCAM
+Eye of the tiger|OGRPBCAM
+F 18 fluorodeoxyglucose positron emission tomography|OGRPBCAM
+FDDNP|OGRPBCAM
+FDDNP_PET|OGRPBCAM
+FDG PET Scan|OGRPBCAM
+Fahn_Marsden dystonia rating scale|OGRPBCAM
+Fatigue severity inventory|OGRPBCAM
+Fifth ventricle|OGRPBCAM
+Fluency test|OGRPBCAM
+Fluid_attenuated inversion recovery|OGRPBCAM
+Fluorescence imaging|OGRPBCAM
+Fluorescence mediated tomography|OGRPBCAM
+Fluorodeoxyglucose volume|OGRPBCAM
+Focal Cortical Atrophy|OGRPBCAM
+Focal Hemosiderin Deposition|OGRPBCAM
+Focal Neocortical Atrophy|OGRPBCAM
+Focal atrophy|OGRPBCAM
+Focal hypometabolism|OGRPBCAM
+Focal temporal lobe hypometabolism|OGRPBCAM
+Folstein minimental test|OGRPBCAM
+Forebrain|OGRPBCAM
+Fornix sign|OGRPBCAM
+Fourth ventricle|OGRPBCAM
+Fractional anisotropy|OGRPBCAM
+Free and Cued Selective Reminding Test|OGRPBCAM
+Frequency of abnormal movement scale|OGRPBCAM
+Frontal Left Cerebrospinal fluid|OGRPBCAM
+Frontal Left Grey Matter|OGRPBCAM
+Frontal Left White Matter|OGRPBCAM
+Frontal Pole|OGRPBCAM
+Frontal Right Cerebrospinal fluid|OGRPBCAM
+Frontal Right Grey Matter|OGRPBCAM
+Frontal Right White Matter|OGRPBCAM
+Frontal Sulcus|OGRPBCAM
+Frontal cortex hypometabolism|OGRPBCAM
+Frontal horn width to intercaudate distance ratio|OGRPBCAM
+Frontal hypometablism|OGRPBCAM
+Frontal hypoperfusion|OGRPBCAM
+Frontal lobe|OGRPBCAM
+Frontal lobe atrophy|OGRPBCAM
+Frontal lobe hypoperfusion|OGRPBCAM
+Frontal lobe volume|OGRPBCAM
+Fronto_Marginal Gyrus|OGRPBCAM
+Fronto_Marginal Sulcus|OGRPBCAM
+Frontomarginal Sulcus and Gyrus|OGRPBCAM
+Frontopolar prefrontal atrophy|OGRPBCAM
+Functional imaging|OGRPBCAM
+Functional magnetic resonance imaging|OGRPBCAM
+Functional near_infrared spectroscopy|OGRPBCAM
+Geriatric depression scale|OGRPBCAM
+Global deterioration scale|OGRPBCAM
+Globus Pallidus Pars Interna|OGRPBCAM
+Glucose hypometabolism|OGRPBCAM
+Gradient recalled echo|OGRPBCAM
+Graphic tablet analysis|OGRPBCAM
+Gray matter|OGRPBCAM
+Grey matter atrophy|OGRPBCAM
+Grey matter volume|OGRPBCAM
+Gyrus Rectus|OGRPBCAM
+H_shaped Orbital Sulcus|OGRPBCAM
+Hamilton depression scale|OGRPBCAM
+Heidelberg edge perimetry|OGRPBCAM
+Hemodynamic activity|OGRPBCAM
+Hemosidern deposition|OGRPBCAM
+Hierarchical parcellation of MRI using multi_atlas labeling methods|OGRPBCAM
+High angular resolution diffusion_weighted imaging|OGRPBCAM
+Hindbrain|OGRPBCAM
+Hippocampal Formation|OGRPBCAM
+Hippocampal atrophy|OGRPBCAM
+Hippocampal perfusion|OGRPBCAM
+Hippocampal swelling|OGRPBCAM
+Hippocampus|OGRPBCAM
+Hippocampus volume|OGRPBCAM
+Hippocampus volumetry|OGRPBCAM
+Hockey stick sign|OGRPBCAM
+Hoehn and Yahr stage scale|OGRPBCAM
+Hopkins motor and vocal tic scale|OGRPBCAM
+Hopkins verbal learning test|OGRPBCAM
+Horizontal Ramus of the Lateral Sulcus|OGRPBCAM
+Hospital anxiety and depression scale|OGRPBCAM
+Hospital anxiety and depression scale _ depression|OGRPBCAM
+Hot cross bun|OGRPBCAM
+Hummingbird sign|OGRPBCAM
+Hyperintense Lateral Putaminal Rim|OGRPBCAM
+Hyperintense Putaminal Rim|OGRPBCAM
+Hyperintensity|OGRPBCAM
+Hyperintensity of Substantia Nigra|OGRPBCAM
+Hyperperfusion of the right temporoparietal cortex|OGRPBCAM
+Hypointensity|OGRPBCAM
+Hypometabolism|OGRPBCAM
+Hypometabolism in occipital cortex|OGRPBCAM
+Hypometabolism in temporal cortex|OGRPBCAM
+Hypometabolism of parietal cortex|OGRPBCAM
+Hypoperfusion|OGRPBCAM
+Ictal SPECT|OGRPBCAM
+Ictal hyperperfusion|OGRPBCAM
+Image acquisition|OGRPBCAM
+Imaging Technique|OGRPBCAM
+Index of brain atrophy|OGRPBCAM
+Inferior Frontal Gyrus|OGRPBCAM
+Inferior Frontal Sulcus|OGRPBCAM
+Inferior Occipital Gyrus|OGRPBCAM
+Inferior Occipital Gyrus and Sulcus|OGRPBCAM
+Inferior Occipital Sulcus|OGRPBCAM
+Inferior Parietal Lobule|OGRPBCAM
+Inferior Part of the Precentral Sulcus|OGRPBCAM
+Inferior Segment of the Circular Sulcus of the Insula|OGRPBCAM
+Inferior Temporal Gyrus|OGRPBCAM
+Inferior Temporal Sulcus|OGRPBCAM
+Informant questionnaire on cognitive decline|OGRPBCAM
+Instrumental activities of daily living|OGRPBCAM
+Insula|OGRPBCAM
+Intercaudate distance to inner table width ratio|OGRPBCAM
+Interictal SPECT|OGRPBCAM
+Intermediate scale for assessment of Parkinsons Disease|OGRPBCAM
+Interparietal Sulcus and Transverse Parietal Sulcus|OGRPBCAM
+Intracerebral hemorrhage|OGRPBCAM
+Intracingulate Sulcus|OGRPBCAM
+Intracranial CSF volume|OGRPBCAM
+Intracranial gray matter volume|OGRPBCAM
+Intracranial hemorrhage|OGRPBCAM
+Intracranial volume|OGRPBCAM
+Intracranial white matter volume|OGRPBCAM
+Intralimbic Gyrus|OGRPBCAM
+Intraparietal Sulcus and Transverse Parietal Sulcus|OGRPBCAM
+Intrinsic optical imaging|OGRPBCAM
+Invasive imaging|OGRPBCAM
+Lacunae|OGRPBCAM
+Laser doppler ultrasound|OGRPBCAM
+Lateral Aspect of the Superior Temporal Gyrus|OGRPBCAM
+Lateral Cortical Atrophy|OGRPBCAM
+Lateral Fissure Anterior Horizontal|OGRPBCAM
+Lateral Fissure Anterior Vertical|OGRPBCAM
+Lateral Occipito_Temporal Gyrus|OGRPBCAM
+Lateral Occipito_Temporal Sulcus|OGRPBCAM
+Lateral Orbital Gyrus|OGRPBCAM
+Lateral Orbital Sulcus|OGRPBCAM
+Lateral Prefrontal Cortex Atrophy|OGRPBCAM
+Lateral Sulcus|OGRPBCAM
+Lateral Ventricle|OGRPBCAM
+Lateral atrophy|OGRPBCAM
+Leasure Activities Test _ Physical Subtest|OGRPBCAM
+Leasure Activities Test _ Social Subtest|OGRPBCAM
+Left Accumbens Area|OGRPBCAM
+Left Amygdala|OGRPBCAM
+Left Anterior Temporal Lobe Atrophy|OGRPBCAM
+Left Caudate|OGRPBCAM
+Left Cerebellum Cortex|OGRPBCAM
+Left Cerebellum White Matter|OGRPBCAM
+Left Cerebral Cortex|OGRPBCAM
+Left Cerebral White Matter|OGRPBCAM
+Left Choroid Plexus|OGRPBCAM
+Left Hippocampal Atrophy|OGRPBCAM
+Left Hippocampus|OGRPBCAM
+Left Inferior Lateral Ventricle|OGRPBCAM
+Left Lateral Ventricle|OGRPBCAM
+Left Lentiform Nucleus|OGRPBCAM
+Left Pallidum|OGRPBCAM
+Left Putamen|OGRPBCAM
+Left Thalamus Proper|OGRPBCAM
+Left Ventral Diencephalon|OGRPBCAM
+Left Vessel|OGRPBCAM
+Left entorhinal volume|OGRPBCAM
+Left hippocampus volume|OGRPBCAM
+Left mean thickness|OGRPBCAM
+Leg dystonia disability scale|OGRPBCAM
+Leisure Activities Test|OGRPBCAM
+Leisure Activities Test _ Cognitive Subtest|OGRPBCAM
+Lentiform Nucleus|OGRPBCAM
+Levadopa metabolism|OGRPBCAM
+Levadopa test|OGRPBCAM
+Limbic Gyrus|OGRPBCAM
+Limbic Lobe|OGRPBCAM
+Lingual Gyrus|OGRPBCAM
+Lingual Sulcus|OGRPBCAM
+List of words|OGRPBCAM
+Lobe of Cerebral Cortex|OGRPBCAM
+Logical Memory Immediate|OGRPBCAM
+Logical memory|OGRPBCAM
+Long Insular Gyrus|OGRPBCAM
+Long Insular Gyrus and Sulcus of the Insula|OGRPBCAM
+Long term recordings of tremor|OGRPBCAM
+Loss of neuronal integrity|OGRPBCAM
+Lumbar puncture|OGRPBCAM
+MDS UPDRS|OGRPBCAM
+MRI B1 Calibration|OGRPBCAM
+MRI Clinical Read|OGRPBCAM
+MRI SPM voxel based morphometry analysis|OGRPBCAM
+MRI infarcts|OGRPBCAM
+MR_Image acquisition|OGRPBCAM
+MR_image analysis|OGRPBCAM
+Macrostructural metric measure|OGRPBCAM
+Magnetic resonance imaging|OGRPBCAM
+Magnetic resonance parkinsonism index|OGRPBCAM
+Magnetic resonance spectroscopy|OGRPBCAM
+Magnetisation transfer imaging|OGRPBCAM
+Magnetoencephalograms|OGRPBCAM
+Magnetoencephalography|OGRPBCAM
+Marginal Part of the Cingulate Sulcus|OGRPBCAM
+Marti and Tolosa scale|OGRPBCAM
+Mean diffusivity|OGRPBCAM
+Mean transit time|OGRPBCAM
+Measured feature|OGRPBCAM
+Medial Cortical Atrophy|OGRPBCAM
+Medial Occipito_Temporal Sulcus and Lingual Sulcus|OGRPBCAM
+Medial Occipito_Temporal and Lingual Sulci|OGRPBCAM
+Medial Orbital Gyrus|OGRPBCAM
+Medial Orbital Sulcus|OGRPBCAM
+Medial Temporal Lobe Atrophy|OGRPBCAM
+Medial atrophy|OGRPBCAM
+Medial temporal lobe volume|OGRPBCAM
+Medial temporal perfusion|OGRPBCAM
+Medial temporal volume|OGRPBCAM
+Memory alteration test|OGRPBCAM
+Memory alteration test _ fixation|OGRPBCAM
+Memory alteration test _ free recall|OGRPBCAM
+Memory alteration test _ orientation|OGRPBCAM
+Memory alteration test _ recognition|OGRPBCAM
+Memory alteration test _ semantic|OGRPBCAM
+Memory alteration test _ total|OGRPBCAM
+Memory orientation screening test|OGRPBCAM
+Mental status exam|OGRPBCAM
+Mesial Temporal Lobe Atrophy|OGRPBCAM
+Mickey mouse sign|OGRPBCAM
+Microhemorrhages|OGRPBCAM
+Microscopic diffusion of water|OGRPBCAM
+Microstructural integrity|OGRPBCAM
+Microstructural metric measure|OGRPBCAM
+Midbrain|OGRPBCAM
+Midbrain to pons area ratio|OGRPBCAM
+Middle Cerebellar Peduncle Hyperintensity|OGRPBCAM
+Middle Frontal Gyrus|OGRPBCAM
+Middle Frontal Sulcus|OGRPBCAM
+Middle Occipital Gyrus|OGRPBCAM
+Middle Occipital Sulcus|OGRPBCAM
+Middle Occipital and Lunatus Sulcus|OGRPBCAM
+Middle Temporal Gyrus|OGRPBCAM
+Middle_Anterior Part of the Cingulate Gyrus and Sulcus|OGRPBCAM
+Middle_Posterior Part of the Cingulate Gyrus and Sulcus|OGRPBCAM
+Mini Cog|OGRPBCAM
+Mini mental state exam|OGRPBCAM
+Mini_Mental Parkinson|OGRPBCAM
+Minimally invasive|OGRPBCAM
+Modified Hachinski|OGRPBCAM
+Montgomery_Asberg depression rating scale|OGRPBCAM
+Montreal cognitive assessment|OGRPBCAM
+Montreal cognitive assessment _ abstraction|OGRPBCAM
+Montreal cognitive assessment _ alternating trail making|OGRPBCAM
+Montreal cognitive assessment _ attention _ backward digit span|OGRPBCAM
+Montreal cognitive assessment _ attention _ forward digit span|OGRPBCAM
+Montreal cognitive assessment _ attention _ serial 7s|OGRPBCAM
+Montreal cognitive assessment _ attention _ vigilance|OGRPBCAM
+Montreal cognitive assessment _ delayed recall _ church|OGRPBCAM
+Montreal cognitive assessment _ delayed recall _ daisy|OGRPBCAM
+Montreal cognitive assessment _ delayed recall _ face|OGRPBCAM
+Montreal cognitive assessment _ delayed recall _ red|OGRPBCAM
+Montreal cognitive assessment _ delayed recall _ velvet|OGRPBCAM
+Montreal cognitive assessment _ naming _ Camel|OGRPBCAM
+Montreal cognitive assessment _ naming _ Lion|OGRPBCAM
+Montreal cognitive assessment _ naming _ Rhino|OGRPBCAM
+Montreal cognitive assessment _ orientation _ date|OGRPBCAM
+Montreal cognitive assessment _ orientation _ day|OGRPBCAM
+Montreal cognitive assessment _ orientation _ month|OGRPBCAM
+Montreal cognitive assessment _ orientation _ place|OGRPBCAM
+Montreal cognitive assessment _ orientation _ year|OGRPBCAM
+Montreal cognitive assessment _ sentence repetition|OGRPBCAM
+Montreal cognitive assessment _ verbal fluency|OGRPBCAM
+Montreal cognitive assessment _ verbal fluency _ number of words|OGRPBCAM
+Montreal cognitive assessment _ visuoconstructional skills|OGRPBCAM
+Morning glory sign|OGRPBCAM
+Multidimensional fatigue inventory|OGRPBCAM
+Multiple system atrophy|OGRPBCAM
+Myo_inositol|OGRPBCAM
+N_acetylaspartate|OGRPBCAM
+N_iso propyl_p_123 I iodoamphetamine|OGRPBCAM
+Near infrared spectroscopy|OGRPBCAM
+Near_infrared fluorescence imaging|OGRPBCAM
+Neocortex|OGRPBCAM
+Neocortical atrophy|OGRPBCAM
+Neural activity|OGRPBCAM
+Neurofilament test|OGRPBCAM
+Neuroimaging signs|OGRPBCAM
+Neuronal atrophy|OGRPBCAM
+Neuronal function|OGRPBCAM
+Neuronal integrity|OGRPBCAM
+Neuronal metabolic activity|OGRPBCAM
+Neuropsychiatric inventory questionnaire|OGRPBCAM
+Neuropsychological assessments|OGRPBCAM
+Neurotransmitter Tracer|OGRPBCAM
+Neurotransmitter activity|OGRPBCAM
+New York University rating scale|OGRPBCAM
+Non_White Matter Hypointensities|OGRPBCAM
+Non_invasive imaging|OGRPBCAM
+Northwestern University rating scale|OGRPBCAM
+Nucleus Basalis of Meynert|OGRPBCAM
+Obeso dyskinesia rating scale|OGRPBCAM
+Occipital Left Cerebrospinal fluid|OGRPBCAM
+Occipital Left Grey Matter|OGRPBCAM
+Occipital Left Grey Matter and White Matter|OGRPBCAM
+Occipital Left White Matter|OGRPBCAM
+Occipital Lobe|OGRPBCAM
+Occipital Pole|OGRPBCAM
+Occipital Right Cerebrospinal fluid|OGRPBCAM
+Occipital Right Grey Matter|OGRPBCAM
+Occipital Right White Matter|OGRPBCAM
+Occipital glucose hypometabolism|OGRPBCAM
+Occipital gyrus|OGRPBCAM
+Occipital hypometabolism|OGRPBCAM
+Occipital perfusion|OGRPBCAM
+Opercular Part of the Inferior Frontal Gyrus|OGRPBCAM
+Optic Chiasm|OGRPBCAM
+Optical coherence tomography|OGRPBCAM
+Orbital Gyrus|OGRPBCAM
+Orbital Part of the Inferior Frontal Gyrus|OGRPBCAM
+Orbital Sulcus|OGRPBCAM
+Oromandibular dystonia rating scale|OGRPBCAM
+Oxygen metabolism|OGRPBCAM
+PET Ligands|OGRPBCAM
+PET Tracers|OGRPBCAM
+PET image analysis|OGRPBCAM
+PET_Image acquisition|OGRPBCAM
+PIB Scan|OGRPBCAM
+Pallidum volume|OGRPBCAM
+Paracentral Gyrus|OGRPBCAM
+Paracentral Lobule and Sulcus|OGRPBCAM
+Paracentral Sulcus|OGRPBCAM
+Parahippocampal Gyrus|OGRPBCAM
+Parahippocampal Gyrus Cortical Thickness|OGRPBCAM
+Parahippocampal Gyrus Thickness|OGRPBCAM
+Parahippocampal gyrus volume|OGRPBCAM
+Parenchymal volume|OGRPBCAM
+Parenchymal volume loss|OGRPBCAM
+Parietal Left Cerebrospinal fluid|OGRPBCAM
+Parietal Left Grey Matter|OGRPBCAM
+Parietal Left White Matter|OGRPBCAM
+Parietal Left White Matter Lesion|OGRPBCAM
+Parietal Lobe|OGRPBCAM
+Parietal Right Cerebrospinal fluid|OGRPBCAM
+Parietal Right Grey Matter|OGRPBCAM
+Parietal Right White Matter|OGRPBCAM
+Parietal Right White Matter Lesion|OGRPBCAM
+Parietal hypoperfusion|OGRPBCAM
+Parietal lobe atrophy|OGRPBCAM
+Parieto_Occipital Sulcus|OGRPBCAM
+Parieto_occipital glucose hypometabolism|OGRPBCAM
+Parkinson disease|OGRPBCAM
+Parkinson disease cognitive rating scale|OGRPBCAM
+Parkinson disease dyskinesia scale|OGRPBCAM
+Parkinson fatigue scale|OGRPBCAM
+Parkinson neuropsychometric dementia assessment|OGRPBCAM
+Parkinson psychosis rating scale|OGRPBCAM
+Parkinsons disease dementia_short screen|OGRPBCAM
+Pattern of atrophy|OGRPBCAM
+Perception digital test|OGRPBCAM
+Perfusion|OGRPBCAM
+Perfusion weighted MRI|OGRPBCAM
+Perfusion weighted imaging|OGRPBCAM
+Pericallosal Sulcus|OGRPBCAM
+Periventricular White Matter Lesion|OGRPBCAM
+Phonemic fluency|OGRPBCAM
+Phospho tau test|OGRPBCAM
+Physiological imaging|OGRPBCAM
+Pittsburgh Compound B|OGRPBCAM
+Pittsburgh sleep quality index|OGRPBCAM
+Planum Polare of the Superior Temporal Gyrus|OGRPBCAM
+Planum Temporale|OGRPBCAM
+Planum Temporale of the Superior Temporal Gyrus|OGRPBCAM
+Polysomnography|OGRPBCAM
+Pons|OGRPBCAM
+Positron emission tomography|OGRPBCAM
+Post_processing algorithm|OGRPBCAM
+Postcentral Gyrus|OGRPBCAM
+Postcentral Sulcus|OGRPBCAM
+Posterior Cortical Atrophy|OGRPBCAM
+Posterior Orbital Gyrus|OGRPBCAM
+Posterior Putaminal Hypointensity|OGRPBCAM
+Posterior Ramus of the Lateral Sulcus|OGRPBCAM
+Posterior Segment of the Lateral Sulcus|OGRPBCAM
+Posterior Subcentral Sulcus|OGRPBCAM
+Posterior Transverse Collateral Sulcus|OGRPBCAM
+Posterior_Dorsal Part of the Cingulate Gyrus|OGRPBCAM
+Posterior_Ventral Part of the Cingulate Gyrus|OGRPBCAM
+Postictal hypoperfusion|OGRPBCAM
+Precentral Gyrus|OGRPBCAM
+Precentral Sulcus|OGRPBCAM
+Precuneus|OGRPBCAM
+Prefrontal cortex atrophy|OGRPBCAM
+Prefrontal cortex hypometabolism|OGRPBCAM
+Presynaptic Dopamine Function|OGRPBCAM
+Proton MR spectroscopy|OGRPBCAM
+Pulvinar sign|OGRPBCAM
+Putamen|OGRPBCAM
+Putamen diffusivity|OGRPBCAM
+Putaminal Hypointensity|OGRPBCAM
+Quantitative electroencephalography|OGRPBCAM
+Quantitative tremor analysis|OGRPBCAM
+R_BANS|OGRPBCAM
+Radial diffusivity|OGRPBCAM
+Radiopharmaceutical compound|OGRPBCAM
+Rates of atrophy|OGRPBCAM
+Ratio phospho tau to abeta 40 test|OGRPBCAM
+Ratio phospho tau to abeta 42 test|OGRPBCAM
+Raven matrix test|OGRPBCAM
+Regional brain tissue volume in parietal lobe|OGRPBCAM
+Regional brain tissue volume in temporal lobe|OGRPBCAM
+Regional cerebral glucose metabolism|OGRPBCAM
+Repetitive Transcranial Magnetic Stimulation|OGRPBCAM
+Resting fMRI|OGRPBCAM
+Resting state fMRI|OGRPBCAM
+Retinal Nerve Fiber Layer Thickness|OGRPBCAM
+Rey auditory verbal learning test|OGRPBCAM
+Rey_Osterrieth complex figure test|OGRPBCAM
+Right Accumbens Area|OGRPBCAM
+Right Amygdala|OGRPBCAM
+Right Caudate|OGRPBCAM
+Right Cerebellum Cortex|OGRPBCAM
+Right Cerebellum White Matter|OGRPBCAM
+Right Cerebral Cortex|OGRPBCAM
+Right Cerebral White Matter|OGRPBCAM
+Right Choroid Plexus|OGRPBCAM
+Right Hippocampal Atrophy|OGRPBCAM
+Right Hippocampus|OGRPBCAM
+Right Inferior Lateral Ventricle|OGRPBCAM
+Right Lateral Ventricle|OGRPBCAM
+Right Lentiform Nucleus|OGRPBCAM
+Right Pallidum|OGRPBCAM
+Right Putamen|OGRPBCAM
+Right Temporal Lobe Atrophy|OGRPBCAM
+Right Thalamus Proper|OGRPBCAM
+Right Ventral Diencephalon|OGRPBCAM
+Right Vessel|OGRPBCAM
+Right entorhinal cortex volume|OGRPBCAM
+Right frontal cortex hypometabolism|OGRPBCAM
+Right hippocampus volume|OGRPBCAM
+Right mean thickness|OGRPBCAM
+Rush dyskinesia rating scale|OGRPBCAM
+SPECT Tracers|OGRPBCAM
+Scales for Outcomes in Parkinson Disease_Motor|OGRPBCAM
+Scales for outcomes of Parkinsons Disease_Cognition|OGRPBCAM
+Scheltons scale|OGRPBCAM
+Schwab and England activities of daily living scale|OGRPBCAM
+Scores|OGRPBCAM
+Serotonin|OGRPBCAM
+Shapiro Tourette syndrome severity scale|OGRPBCAM
+Short Insular Gyrus|OGRPBCAM
+Short Parkinsons rating scale|OGRPBCAM
+Short portable mental status questionnaire|OGRPBCAM
+Single Photon Emission Computed Tomography|OGRPBCAM
+Skeletal muscle atrophy|OGRPBCAM
+Social activities of daily living|OGRPBCAM
+Sodium MR imaging|OGRPBCAM
+Spanish national adult reading test|OGRPBCAM
+Spatial pattern of abnormalities for recognition of early MCI to AD conversion|OGRPBCAM
+Spatial span|OGRPBCAM
+Statistical measure|OGRPBCAM
+Striatum|OGRPBCAM
+Structural connectivity|OGRPBCAM
+Structural feature|OGRPBCAM
+Structural imaging|OGRPBCAM
+Structural magnetic resonance imaging|OGRPBCAM
+Subarachnoid hemorrhage|OGRPBCAM
+Subcallosal Area|OGRPBCAM
+Subcallosal Gyrus|OGRPBCAM
+Subcentral Gyrus|OGRPBCAM
+Subcentral Gyrus and Sulcus|OGRPBCAM
+Subcentral Sulcus|OGRPBCAM
+Subcortical White Matter Lesion|OGRPBCAM
+Subcortical atrophy|OGRPBCAM
+Suborbital Sulcus|OGRPBCAM
+Suborbital Sulcus Supero_medially|OGRPBCAM
+Subparietal Sulcus|OGRPBCAM
+Substantia Nigra|OGRPBCAM
+Subthalamic Nucleus|OGRPBCAM
+Subthalamus|OGRPBCAM
+Sulcus|OGRPBCAM
+Sulcus Cingulate_Marginalis|OGRPBCAM
+Sulcus Circular Insula Anterior|OGRPBCAM
+Sulcus Circular Insula Inferior|OGRPBCAM
+Sulcus Circular Insula Superior|OGRPBCAM
+Sulcus Diagonalis|OGRPBCAM
+Sulcus Intermedius Primus of Jensen|OGRPBCAM
+Sulcus Precentral Inferior Part|OGRPBCAM
+Sulcus Precentral Superior Part|OGRPBCAM
+Superior Frontal Gyrus|OGRPBCAM
+Superior Frontal Sulcus|OGRPBCAM
+Superior Occipital Gyrus|OGRPBCAM
+Superior Occipital Sulcus|OGRPBCAM
+Superior Occipital and Transverse Occipital Sulcus|OGRPBCAM
+Superior Parietal Lobule|OGRPBCAM
+Superior Part of the Precentral Sulcus|OGRPBCAM
+Superior Segment of the Circular Sulcus of the Insula|OGRPBCAM
+Superior Suborbital Sulcus|OGRPBCAM
+Superior Temporal Gyrus|OGRPBCAM
+Superior Temporal Sulcus|OGRPBCAM
+Supramarginal Gyrus|OGRPBCAM
+Susceptibility weighted imaging|OGRPBCAM
+Suspected unexpected serious adverse reactions|OGRPBCAM
+Synaptic activity|OGRPBCAM
+Synaptic plasticity|OGRPBCAM
+T1 Hypointensity|OGRPBCAM
+T1 Signal Hyperintensity|OGRPBCAM
+T1_weighted MRI|OGRPBCAM
+T1_weighted coronal MRI|OGRPBCAM
+T2_weighted coronal MRI|OGRPBCAM
+T2_weighted imaging|OGRPBCAM
+Task fMRI|OGRPBCAM
+Task_Free fMRI summary metric of DMN ROIs|OGRPBCAM
+Tau|OGRPBCAM
+Tau hyperphosphorylation|OGRPBCAM
+Tau test|OGRPBCAM
+Tc_99m Hexamethylpropylene Amine Oxime Ictal SPECT|OGRPBCAM
+Tc_99m ethyl cysteinate dimer _ECD_ ictal SPECT|OGRPBCAM
+Telencephalon|OGRPBCAM
+Temporal Horn Index|OGRPBCAM
+Temporal Horn of Lateral Ventricles|OGRPBCAM
+Temporal Left White Matter|OGRPBCAM
+Temporal Left White Matter Lesion|OGRPBCAM
+Temporal Lobe Cerebrospinal Fluid|OGRPBCAM
+Temporal Lobe Grey Matter|OGRPBCAM
+Temporal Lobe Right White Matter Lesions|OGRPBCAM
+Temporal Lobe White Matter|OGRPBCAM
+Temporal Pole|OGRPBCAM
+Temporal Pole Cortical Thickness|OGRPBCAM
+Temporal Right Cerebrospinal Fluid|OGRPBCAM
+Temporal Right Grey Matter|OGRPBCAM
+Temporal Right Parietal|OGRPBCAM
+Temporal Right White Matter|OGRPBCAM
+Temporal Right White Matter Lesion|OGRPBCAM
+Temporal horn volume|OGRPBCAM
+Temporal lobe atrophy|OGRPBCAM
+Temporal lobe hypometabolism|OGRPBCAM
+Temporal lobe volume|OGRPBCAM
+Temporo_Occipital Incisure|OGRPBCAM
+Temporoparietal Cortical Atrophy|OGRPBCAM
+Temporoparietal Cortical Thickness|OGRPBCAM
+Temporoparietal hypoperfusion|OGRPBCAM
+Tempral Left Grey Matter|OGRPBCAM
+Tempral Lobe|OGRPBCAM
+Tempral Lobe Cerebrospinal Fluid|OGRPBCAM
+Tensor based morphometry_symmetric diffeomorphic image normalization method|OGRPBCAM
+Tensor_based morphometry|OGRPBCAM
+Thick Left Gyrus and Sulcus Cingulate Mid Anterior|OGRPBCAM
+Thick Right Intraparietal Sulcus and Transverse Parietal Sulcus|OGRPBCAM
+Thickness Left Anterior Transverse Temporal Gyrus|OGRPBCAM
+Thickness Left Gyrus Cingulate Post Dorsal|OGRPBCAM
+Thickness Left Gyrus Cingulate Post Ventral|OGRPBCAM
+Thickness Left Gyrus Cuneus|OGRPBCAM
+Thickness Left Gyrus Frontal Inferior Opercular|OGRPBCAM
+Thickness Left Gyrus Frontal Inferior Orbital|OGRPBCAM
+Thickness Left Gyrus Frontal Inferior Triangular|OGRPBCAM
+Thickness Left Gyrus Frontal Middle|OGRPBCAM
+Thickness Left Gyrus Frontal Superior|OGRPBCAM
+Thickness Left Gyrus Insular Short|OGRPBCAM
+Thickness Left Gyrus Occipital Middle|OGRPBCAM
+Thickness Left Gyrus Occipital Superior|OGRPBCAM
+Thickness Left Gyrus Occipital Temporal Lateral Fusiform|OGRPBCAM
+Thickness Left Gyrus Occipital Temporal Medial Lingual|OGRPBCAM
+Thickness Left Gyrus Occipital Temporal Medial Parahippocampus|OGRPBCAM
+Thickness Left Gyrus Orbital|OGRPBCAM
+Thickness Left Gyrus Parietal Inferior Angular|OGRPBCAM
+Thickness Left Gyrus Parietal Inferior Supramarginal|OGRPBCAM
+Thickness Left Gyrus Parietal Superior|OGRPBCAM
+Thickness Left Gyrus Postcentral|OGRPBCAM
+Thickness Left Gyrus Precentral|OGRPBCAM
+Thickness Left Gyrus Precuneus|OGRPBCAM
+Thickness Left Gyrus Rectus|OGRPBCAM
+Thickness Left Gyrus Subcallosal|OGRPBCAM
+Thickness Left Gyrus Temporal Inferior|OGRPBCAM
+Thickness Left Gyrus Temporal Middle|OGRPBCAM
+Thickness Left Gyrus Temporal Superior Lateral|OGRPBCAM
+Thickness Left Gyrus Temporal Superior Planar Polar|OGRPBCAM
+Thickness Left Gyrus and Sulcus Cingulate Anterior|OGRPBCAM
+Thickness Left Gyrus and Sulcus Frontomargin|OGRPBCAM
+Thickness Left Gyrus and Sulcus Occipital Inferior|OGRPBCAM
+Thickness Left Gyrus and Sulcus Paracentral|OGRPBCAM
+Thickness Left Gyrus and Sulcus Subcentral|OGRPBCAM
+Thickness Left Gyrus and Sulcus Transv Frontopolar|OGRPBCAM
+Thickness Left Intraparietal Sulcus and Transverse Parietal Sulci|OGRPBCAM
+Thickness Left Lateral Fissure Anterior Horizontal|OGRPBCAM
+Thickness Left Lateral Fissure Anterior Vertical|OGRPBCAM
+Thickness Left Lateral Fissure Posterior|OGRPBCAM
+Thickness Left Sulcus Calcarine|OGRPBCAM
+Thickness Left Sulcus Central|OGRPBCAM
+Thickness Left Sulcus Cingulate Marginalis|OGRPBCAM
+Thickness Left Sulcus Circular Insula Anterior|OGRPBCAM
+Thickness Left Sulcus Circular Insula Inferior|OGRPBCAM
+Thickness Left Sulcus Circular Insula Superior|OGRPBCAM
+Thickness Left Sulcus Collateral Transversal Anterior|OGRPBCAM
+Thickness Left Sulcus Collateral Transversal Posterior|OGRPBCAM
+Thickness Left Sulcus Frontal Inferior|OGRPBCAM
+Thickness Left Sulcus Frontal Middle|OGRPBCAM
+Thickness Left Sulcus Frontal Superior|OGRPBCAM
+Thickness Left Sulcus Occipital Anterior|OGRPBCAM
+Thickness Left Sulcus Occipital Middle and Lunatus|OGRPBCAM
+Thickness Left Sulcus Occipital Superior and Transversal|OGRPBCAM
+Thickness Left Sulcus Occipital Temporal Lateral|OGRPBCAM
+Thickness Left Sulcus Occipital Temporal Medial and Lingual|OGRPBCAM
+Thickness Left Sulcus Orbital H Shaped|OGRPBCAM
+Thickness Left Sulcus Orbital Lateral|OGRPBCAM
+Thickness Left Sulcus Orbital Medial Olfact|OGRPBCAM
+Thickness Left Sulcus Parieto Occipital|OGRPBCAM
+Thickness Left Sulcus Pericallosal|OGRPBCAM
+Thickness Left Sulcus Postcentral|OGRPBCAM
+Thickness Left Sulcus Precentral Inferior Part|OGRPBCAM
+Thickness Left Sulcus Precentral Superior part|OGRPBCAM
+Thickness Left Sulcus Suborbital|OGRPBCAM
+Thickness Left Sulcus Subparietal|OGRPBCAM
+Thickness Left Sulcus Temporal Inferior|OGRPBCAM
+Thickness Left Sulcus Temporal Superior|OGRPBCAM
+Thickness Left Sulcus Temporal Transverse|OGRPBCAM
+Thickness LeftPole Occipital|OGRPBCAM
+Thickness LeftPole Temporal|OGRPBCAM
+Thickness Right Gyrus Cingulate Posterior Dorsal|OGRPBCAM
+Thickness Right Gyrus Cingulate Posterior Ventral|OGRPBCAM
+Thickness Right Gyrus Cuneus|OGRPBCAM
+Thickness Right Gyrus Frontal Inferior Opercular|OGRPBCAM
+Thickness Right Gyrus Frontal Inferior Orbital|OGRPBCAM
+Thickness Right Gyrus Frontal Inferior Triangular|OGRPBCAM
+Thickness Right Gyrus Frontal Middle|OGRPBCAM
+Thickness Right Gyrus Frontal Superior|OGRPBCAM
+Thickness Right Gyrus Insular Short|OGRPBCAM
+Thickness Right Gyrus Occipital Middle|OGRPBCAM
+Thickness Right Gyrus Occipital Superior|OGRPBCAM
+Thickness Right Gyrus Occipital Temporal Lateral Fusiform|OGRPBCAM
+Thickness Right Gyrus Occipital Temporal Medial Lingual|OGRPBCAM
+Thickness Right Gyrus Occipital Temporal Medial Parahippocampus|OGRPBCAM
+Thickness Right Gyrus Orbital|OGRPBCAM
+Thickness Right Gyrus Parietal Inferior Angular|OGRPBCAM
+Thickness Right Gyrus Parietal Inferior Supramarginal|OGRPBCAM
+Thickness Right Gyrus Parietal Superior|OGRPBCAM
+Thickness Right Gyrus Postcentral|OGRPBCAM
+Thickness Right Gyrus Precentral|OGRPBCAM
+Thickness Right Gyrus Precuneus|OGRPBCAM
+Thickness Right Gyrus Rectus|OGRPBCAM
+Thickness Right Gyrus Subcallosal|OGRPBCAM
+Thickness Right Gyrus Temporal Inferior|OGRPBCAM
+Thickness Right Gyrus Temporal Middle|OGRPBCAM
+Thickness Right Gyrus Temporal Superior Lateral|OGRPBCAM
+Thickness Right Gyrus Temporal Superior Planar Polar|OGRPBCAM
+Thickness Right Gyrus Temporal Superior Planar Temporal|OGRPBCAM
+Thickness Right Gyrus and Sulcus Cingulate Anterior|OGRPBCAM
+Thickness Right Gyrus and Sulcus Cingulate Mid Anterior|OGRPBCAM
+Thickness Right Gyrus and Sulcus Cingulate Mid Posterior|OGRPBCAM
+Thickness Right Gyrus and Sulcus Frontomargin|OGRPBCAM
+Thickness Right Gyrus and Sulcus Occipital Inferior|OGRPBCAM
+Thickness Right Gyrus and Sulcus Paracentral|OGRPBCAM
+Thickness Right Gyrus and Sulcus Subcentral|OGRPBCAM
+Thickness Right Gyrus and Sulcus Transverse Frontopol|OGRPBCAM
+Thickness Right Lateral Fissure Anterior Horizontal|OGRPBCAM
+Thickness Right Lateral Fissure Posterior|OGRPBCAM
+Thickness Right Pole Occipital|OGRPBCAM
+Thickness Right Sulcus Calcarine|OGRPBCAM
+Thickness Right Sulcus Central|OGRPBCAM
+Thickness Right Sulcus Cingulate Marginalis|OGRPBCAM
+Thickness Right Sulcus Circular Insula Anterior|OGRPBCAM
+Thickness Right Sulcus Circular Insula Inferior|OGRPBCAM
+Thickness Right Sulcus Circular Insula Superior|OGRPBCAM
+Thickness Right Sulcus Collateral Transverse Anterior|OGRPBCAM
+Thickness Right Sulcus Collateral Transverse Posterior|OGRPBCAM
+Thickness Right Sulcus Frontal Inferior|OGRPBCAM
+Thickness Right Sulcus Frontal Middle|OGRPBCAM
+Thickness Right Sulcus Frontal Superior|OGRPBCAM
+Thickness Right Sulcus Intermedius Primus Jensen|OGRPBCAM
+Thickness Right Sulcus Occipital Anterior|OGRPBCAM
+Thickness Right Sulcus Occipital Middle and Lunatus|OGRPBCAM
+Thickness Right Sulcus Occipital Superior and Transversal|OGRPBCAM
+Thickness Right Sulcus Occipital Temporal Lateral|OGRPBCAM
+Thickness Right Sulcus Occipital Temporal Medial and Lingual|OGRPBCAM
+Thickness Right Sulcus Orbital H Shaped|OGRPBCAM
+Thickness Right Sulcus Orbital Lateral|OGRPBCAM
+Thickness Right Sulcus Orbital Medial Olfactory|OGRPBCAM
+Thickness Right Sulcus Parieto Occipital|OGRPBCAM
+Thickness Right Sulcus Pericallosal|OGRPBCAM
+Thickness Right Sulcus Postcentral|OGRPBCAM
+Thickness Right Sulcus Precentral Inferior Part|OGRPBCAM
+Thickness Right Sulcus Precentral Superior Part|OGRPBCAM
+Thickness Right Sulcus Suborbital|OGRPBCAM
+Thickness Right Sulcus Subparietal|OGRPBCAM
+Thickness Right Sulcus Temporal Inferior|OGRPBCAM
+Thickness Right Sulcus Temporal Superior|OGRPBCAM
+Thickness Right Sulcus Temporal Transverse|OGRPBCAM
+Thickness RightPole Temporal|OGRPBCAM
+Thickness left gyrus and sulcus cingulate mid Posterior|OGRPBCAM
+Third ventricle|OGRPBCAM
+Time for Rey_Osterrieth Complex Figure Test|OGRPBCAM
+Tissue volume fraction|OGRPBCAM
+Token test|OGRPBCAM
+Toronto western spasmodic torticollis scale|OGRPBCAM
+Total cranial vault segmentation|OGRPBCAM
+Total cranial volume|OGRPBCAM
+Tourette syndrome global scale|OGRPBCAM
+Transcranial B_mode sonography|OGRPBCAM
+Transcranial Direct Current Stimulation|OGRPBCAM
+Transcranial Magnetic Stimulation|OGRPBCAM
+Transverse Frontopolar Gyrus|OGRPBCAM
+Transverse Frontopolar Sulcus|OGRPBCAM
+Transverse Frontopolar Sulcus and Gyrus|OGRPBCAM
+Transverse Occipital Sulcus|OGRPBCAM
+Transverse Parietal Sulcus|OGRPBCAM
+Transverse Temporal Gyrus|OGRPBCAM
+Transverse Temporal Sulcus|OGRPBCAM
+Triangular Part of the Inferior Frontal Gyrus|OGRPBCAM
+Triangular Sulcus|OGRPBCAM
+UC Berkeley AV45 analysis|OGRPBCAM
+UC Berkeley_FDG analysis|OGRPBCAM
+UPitt_PIB PET analysis|OGRPBCAM
+UU _ PET AD subjects cerebral metabolic pattern of glucose uptake consistent with frontotemporal dementia in baseline FDG_PET|OGRPBCAM
+UU_PET analysis|OGRPBCAM
+Ultrasound imaging|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.1 Speech|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.10 Gait|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.11 Freezing of Gait|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.12 Postural Stability|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.13 Posture|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.14 Global Spontaneity of Movement|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.15a Postural Tremor _ Right Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.15b Postural Tremor _ Left Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.16a Kinetic Tremor _ Right Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.16b Kinetic Tremor _ Left Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.17a Rest Tremor Amplitude _ RUE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.17b Rest Tremor Amplitude _ LUE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.17c Rest Tremor Amplitude _ RLE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.17d Rest Tremor Amplitude _ LLE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.17e Rest Tremor Amplitude _ Lip/Jaw|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.18 Constancy of Rest|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.19 Were Dyskinesias Present|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.2 Facial Expression|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.20 Did Movements Interfere with Rating|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.21 Hoehn and Yahr Stage|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.3a Rigidity _ Neck|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.3b Rigidity _ RUE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.3c Rigidity _ LUE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.3d Rigidity _ RLE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.3e Rigidity _ LLE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.4a Finger Tapping Right Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.4b Finger Tapping Left Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.5a Hand Movements _ Right Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.5b Hand Movements _ Left Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.6a Pronation_Supination _ Right Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.6b Pronation_Supination _ Left Hand|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.7a Toe Tapping _ Right Foot|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.7b Toe Tapping _ Left Foot|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.8b Leg Agility _ Left Leg|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 3.9 Arising from Chair|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 4.1 Time Spent with Dyskinesias|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 4.2 Functional Impact of Dyskinesias|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 4.3 Time Spent in the OFF State|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 4.4 Functional Impact of Fluctuations|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 4.5 Complexity of Motor Fluctuations|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ 4.6 Painful OFF_state dystonia|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ CHEWING AND SWALLOWING|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ CONSTIPATION PROBLEMS|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ DAYTIME SLEEPINESS|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ DOING HOBBIES AND OTHER ACTIVITIES|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ DRESSING|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ EATING TASKS|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ FATIGUE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ FREEZING|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ GETTING OUT OF BEDNP2WALK|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ HANDWRITING|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ HYGIENE|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ LIGHTHEADEDNESS ON STANDING|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ PAIN AND OTHER SENSATIONS|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ SALIVA + DROOLING|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ SPEECH|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ TREMOR|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ TURNING IN BED|OGRPBCAM
+Unified Parkinsons Disease Rating Scale _ URINARY PROBLEMS|OGRPBCAM
+Unified Parkinsons disease rating scale|OGRPBCAM
+Unified dystonia rating scale|OGRPBCAM
+Unified myoclonus rating scale|OGRPBCAM
+Unilateral temporal hypometabolism|OGRPBCAM
+Unilateral temporoparietal hypoperfusion|OGRPBCAM
+University of California Los Angeles scale|OGRPBCAM
+Ventricular expansion|OGRPBCAM
+Ventricular volume|OGRPBCAM
+Ventromedial‐frontopolar prefrontal cortex atrophy|OGRPBCAM
+Vertical Ramus of the Lateral Sulcus|OGRPBCAM
+Visual object and space perception battery|OGRPBCAM
+Volume Left Gyrus and Sulcus Frontomargin|OGRPBCAM
+Volume Left Gyrus and Sulcus Occipital Inferior|OGRPBCAM
+Volume Left Gyrus and Sulcus Paracentral|OGRPBCAM
+Volume Left Gyrus and Sulcus Subcentral|OGRPBCAM
+Volume Left Gyrus and Sulcus Transverse Frontopolar|OGRPBCAM
+Volume Left Lateral Fissure Anterior Horizontal|OGRPBCAM
+Volume Left Lateral Fissure Anterior Vertical|OGRPBCAM
+Volume Left Lateral Fissure Posterior|OGRPBCAM
+Volume Left Pole Occipital|OGRPBCAM
+Volume Left Pole Temporal|OGRPBCAM
+Volume Left Sulcus Calcarine|OGRPBCAM
+Volume Left Sulcus Central|OGRPBCAM
+Volume Left Sulcus Cingulate Marginalis|OGRPBCAM
+Volume Left Sulcus Circular Insula Anterior|OGRPBCAM
+Volume Left Sulcus Circular Insula Inferior|OGRPBCAM
+Volume Left Sulcus Circular Insula Superior|OGRPBCAM
+Volume Left Sulcus Collateral Transversal Posterior|OGRPBCAM
+Volume Left Sulcus Collateral Transverse Anterior|OGRPBCAM
+Volume Left Sulcus Frontal Inferior|OGRPBCAM
+Volume Left Sulcus Frontal Middle|OGRPBCAM
+Volume Left Sulcus Frontal Superior|OGRPBCAM
+Volume Left Sulcus Interim Prim Jensen|OGRPBCAM
+Volume Left Sulcus Intraparietal and Parietal Transversal|OGRPBCAM
+Volume Left Sulcus Occipital Anterior|OGRPBCAM
+Volume Left Sulcus Occipital Middle and Lunatus|OGRPBCAM
+Volume Left Sulcus Occipital Superior and Transversal|OGRPBCAM
+Volume Left Sulcus Occipital Temporal Lateral|OGRPBCAM
+Volume Left Sulcus Occipital Temporal Medial and Lingual|OGRPBCAM
+Volume Left Sulcus Oorbital Lateral|OGRPBCAM
+Volume Left Sulcus Orbital H Shaped|OGRPBCAM
+Volume Left Sulcus Orbital Medial Olfactary|OGRPBCAM
+Volume Left Sulcus Parieto Occipital|OGRPBCAM
+Volume Left Sulcus Pericallosal|OGRPBCAM
+Volume Left Sulcus Postcentral|OGRPBCAM
+Volume Left Sulcus Precentral Inferior Part|OGRPBCAM
+Volume Left Sulcus Precentral Superior Part|OGRPBCAM
+Volume Left Sulcus Suborbital|OGRPBCAM
+Volume Left Sulcus Subparietal|OGRPBCAM
+Volume Left Sulcus Temporal Inferior|OGRPBCAM
+Volume Left Sulcus Temporal Superior|OGRPBCAM
+Volume Left Sulcus Temporal Transverse|OGRPBCAM
+Volume Right Gyrus Cingulate Posterior Dorsal|OGRPBCAM
+Volume Right Gyrus Cingulate Posterior Ventral|OGRPBCAM
+Volume Right Gyrus Cuneus|OGRPBCAM
+Volume Right Gyrus Frontal Inferior Opercular|OGRPBCAM
+Volume Right Gyrus Frontal Inferior Orbital|OGRPBCAM
+Volume Right Gyrus Frontal Inferior Triangular|OGRPBCAM
+Volume Right Gyrus Frontal Middle|OGRPBCAM
+Volume Right Gyrus Frontal Superior|OGRPBCAM
+Volume Right Gyrus Insular Short|OGRPBCAM
+Volume Right Gyrus Insular lg and Sulcus Central Insular|OGRPBCAM
+Volume Right Gyrus Occipital Middle|OGRPBCAM
+Volume Right Gyrus Occipital Superior|OGRPBCAM
+Volume Right Gyrus Occipital Temporal Lateral Fusiform|OGRPBCAM
+Volume Right Gyrus Occipital Temporal Medial Lingual|OGRPBCAM
+Volume Right Gyrus Occipital Temporal Medial Parahippocampus|OGRPBCAM
+Volume Right Gyrus Orbital|OGRPBCAM
+Volume Right Gyrus Parietal Inferior Angular|OGRPBCAM
+Volume Right Gyrus Parietal Inferior Supramargin|OGRPBCAM
+Volume Right Gyrus Parietal Superior|OGRPBCAM
+Volume Right Gyrus Postcentral|OGRPBCAM
+Volume Right Gyrus Precentral|OGRPBCAM
+Volume Right Gyrus Precuneus|OGRPBCAM
+Volume Right Gyrus Rectus|OGRPBCAM
+Volume Right Gyrus Subcallosal|OGRPBCAM
+Volume Right Gyrus Temporal Inferior|OGRPBCAM
+Volume Right Gyrus Temporal Middle|OGRPBCAM
+Volume Right Gyrus Temporal Superior Lateral|OGRPBCAM
+Volume Right Gyrus Temporal Superior Planar Polar|OGRPBCAM
+Volume Right Gyrus Temporal Superior Planar Temporal|OGRPBCAM
+Volume Right Gyrus and Sulcus Cingulate Anterior|OGRPBCAM
+Volume Right Gyrus and Sulcus Cingulate Middle Anterior|OGRPBCAM
+Volume Right Gyrus and Sulcus Cingulate Middle Posterior|OGRPBCAM
+Volume Right Gyrus and Sulcus Frontomargin|OGRPBCAM
+Volume Right Gyrus and Sulcus Occipital Inferior|OGRPBCAM
+Volume Right Gyrus and Sulcus Paracentral|OGRPBCAM
+Volume Right Gyrus and Sulcus Subcentral|OGRPBCAM
+Volume Right Gyrus and Sulcus Transverse Frontopolar|OGRPBCAM
+Volume Right Lateral Fissure Anterior Horizontal|OGRPBCAM
+Volume Right Lateral Fissure Anterior Vertical|OGRPBCAM
+Volume Right Lateral Fissure Posterior|OGRPBCAM
+Volume Right Pole Occipital|OGRPBCAM
+Volume Right Pole Temporal|OGRPBCAM
+Volume Right Sulcus Calcarine|OGRPBCAM
+Volume Right Sulcus Central|OGRPBCAM
+Volume Right Sulcus Cingulate Marginalis|OGRPBCAM
+Volume Right Sulcus Circular Insula Anterior|OGRPBCAM
+Volume Right Sulcus Circular Insula Inferior|OGRPBCAM
+Volume Right Sulcus Circular Insula Superior|OGRPBCAM
+Volume Right Sulcus Collateral Transverse Anterior|OGRPBCAM
+Volume Right Sulcus Collateral Transverse Posterior|OGRPBCAM
+Volume Right Sulcus Frontal Inferior|OGRPBCAM
+Volume Right Sulcus Frontal Middle|OGRPBCAM
+Volume Right Sulcus Frontal Superior|OGRPBCAM
+Volume Right Sulcus Intraparietal and Parietal Transversal|OGRPBCAM
+Volume Right Sulcus Occipital Anterior|OGRPBCAM
+Volume Right Sulcus Occipital Middle and Lunatus|OGRPBCAM
+Volume Right Sulcus Occipital Superior and Transversal|OGRPBCAM
+Volume Right Sulcus Occipital Temporal Lateral|OGRPBCAM
+Volume Right Sulcus Occipital Temporal medial and Lingual|OGRPBCAM
+Volume Right Sulcus Orbital H Shaped|OGRPBCAM
+Volume Right Sulcus Orbital Lateral|OGRPBCAM
+Volume Right Sulcus Orbital Medial Olfactory|OGRPBCAM
+Volume Right Sulcus Parieto Occipital|OGRPBCAM
+Volume Right Sulcus Pericallosal|OGRPBCAM
+Volume Right Sulcus Postcentral|OGRPBCAM
+Volume Right Sulcus Precentral Inferior Part|OGRPBCAM
+Volume Right Sulcus Precentral Superior Part|OGRPBCAM
+Volume Right Sulcus Suborbital|OGRPBCAM
+Volume Right Sulcus Subparietal|OGRPBCAM
+Volume Right Sulcus Temporal Inferior|OGRPBCAM
+Volume Right Sulcus Temporal Superior|OGRPBCAM
+Volume Right Sulcus Temporal Transverse|OGRPBCAM
+Volume left gyrus and sulcus cingulate anterior|OGRPBCAM
+Volume left gyrus and sulcus cingulate mid anterior|OGRPBCAM
+Volume left gyrus and sulcus cingulate mid posterior|OGRPBCAM
+Volume left gyrus cingulate posterior dorsal|OGRPBCAM
+Volume left gyrus cingulate posterior ventral|OGRPBCAM
+Volume left gyrus cuneus|OGRPBCAM
+Volume left gyrus frontal inferior opercular|OGRPBCAM
+Volume left gyrus frontal inferior orbital|OGRPBCAM
+Volume left gyrus frontal inferior triangular|OGRPBCAM
+Volume left gyrus frontal middle|OGRPBCAM
+Volume left gyrus frontal superior|OGRPBCAM
+Volume left gyrus insular lg and sulcus central insular|OGRPBCAM
+Volume left gyrus insular short|OGRPBCAM
+Volume left gyrus occipital middle|OGRPBCAM
+Volume left gyrus occipital superior|OGRPBCAM
+Volume left gyrus occipital temporal lateral fusiform|OGRPBCAM
+Volume left gyrus occipital temporal medial lingual|OGRPBCAM
+Volume left gyrus occipital temporal medial parahippocampus|OGRPBCAM
+Volume left gyrus orbital|OGRPBCAM
+Volume left gyrus parietal inferior angular|OGRPBCAM
+Volume left gyrus parietal inferior supramarginal|OGRPBCAM
+Volume left gyrus parietal superior|OGRPBCAM
+Volume left gyrus postcentral|OGRPBCAM
+Volume left gyrus precentral|OGRPBCAM
+Volume left gyrus precuneus|OGRPBCAM
+Volume left gyrus rectus|OGRPBCAM
+Volume left gyrus subcallosal|OGRPBCAM
+Volume left gyrus temporal inferior|OGRPBCAM
+Volume left gyrus temporal middle|OGRPBCAM
+Volume left gyrus temporal superior lateral|OGRPBCAM
+Volume left gyrus temporal superior planar polar|OGRPBCAM
+Volume left gyrus temporal superior planar temporal|OGRPBCAM
+Volume of fourth ventricle|OGRPBCAM
+Volumetric MRI|OGRPBCAM
+Voxel_based morphometry|OGRPBCAM
+Wahlund scale|OGRPBCAM
+Wearing_off questionnaire|OGRPBCAM
+Webster scale|OGRPBCAM
+Wechsler adult intelligence scale|OGRPBCAM
+Wechsler adult intelligence scale _ block design|OGRPBCAM
+Wechsler adult intelligence scale _ digit symbol test|OGRPBCAM
+Wechsler adult intelligence scale _ vocabulary|OGRPBCAM
+Western battery _ imitation of hand gesture|OGRPBCAM
+White Matter Hyperintensity|OGRPBCAM
+White Matter Hypointensities|OGRPBCAM
+White Matter_Fazekas score|OGRPBCAM
+White matter|OGRPBCAM
+White matter atrophy|OGRPBCAM
+White matter hyperintensivity volume|OGRPBCAM
+White matter integrity|OGRPBCAM
+White matter lesion|OGRPBCAM
+White matter lesion volume|OGRPBCAM
+White matter perfusion|OGRPBCAM
+White matter volume|OGRPBCAM
+Whole brain atrophy|OGRPBCAM
+Whole brain volume|OGRPBCAM
+Wide range achievement test|OGRPBCAM
+Writers cramp rating scale|OGRPBCAM
+X_ray|OGRPBCAM
+X_ray fluorescence imaging|OGRPBCAM
+Yale Global tic severity scale|OGRPBCAM
+p_tau|OGRPBCAM
+reticular thalamus|OGRPBCAM
