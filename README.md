@@ -1,2 +1,0 @@
-# nift
-Neuroimaging Feature Terminology
